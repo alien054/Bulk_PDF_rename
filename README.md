@@ -7,5 +7,5 @@ Input the new file names sequentially in a txt file.
 Then run 
 
 ```
-python rename.py txtName
+python rename.py txtName (without extention)
 ```
